@@ -14,7 +14,7 @@
     display: inline-block;
     margin: 0;
     font-size: .92rem;
-    margin-right: 9rem;
+    margin-right: 11rem;
 }
 .sort{
     padding: 0 .5rem 0rem 1rem;
@@ -31,7 +31,6 @@
     font-size: 0.75rem;
     font-weight: 500;
     color: #a0a0a0;
-    margin-right: .5rem;
 }
 .order{
     border-color: transparent;
@@ -40,11 +39,9 @@
     padding-right: 2.1rem;
 }
 .shopping-container{
-    overflow-y: auto;
     display: flex;
     flex-wrap: wrap;
     gap: 0.95rem;
-    max-height: 80%;
 }
 .shopping-container div{
     padding: 0.4rem;
@@ -97,10 +94,10 @@ h6{
 .mapa {
   position: absolute;
   top: 0;
-  right: 2rem;
+  right: 3.17%;
   width: 31%;
   height: 100%;
-  padding: .5rem 0 ;
+  padding: .7rem 0 ;
 }
 .map{
     width: 100%;
