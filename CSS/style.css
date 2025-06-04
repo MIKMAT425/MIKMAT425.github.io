@@ -21,16 +21,16 @@
 }
 .navbar div li{
     display: inline-block;
-    margin-right: 3.2rem;
+    margin-right: 3.3rem;
     font-weight: 500;
 }
 .navchoise{
     font-size: 0.815rem;
     text-decoration: none;
-    color: #a0a0a0;
+    color: #898989;
 }
 .logo{
-    margin-right: 9.5rem;
+    margin-right: 10rem;
 }
 .navchoise:hover {
     color: black;
@@ -43,7 +43,7 @@
     height: 2.4rem;
     background-color: #1666d9;
     border-radius: 1.25rem;
-    margin-right: 1rem;
+    margin-right: 1.5rem;
     display: flex;
     align-items: center;
     color: white;
@@ -67,12 +67,12 @@
 }
 
 .ponuka{
-    margin-right: 4rem;
+    margin-right: 5.9rem;
     display: flex;
 }
 .profile{
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 2rem;
+    height: 2rem;
     background-image: url("https://media.istockphoto.com/id/1682296067/photo/happy-studio-portrait-or-professional-man-real-estate-agent-or-asian-businessman-smile-for.jpg?s=612x612&w=0&k=20&c=9zbG2-9fl741fbTWw5fNgcEEe4ll-JegrGlQQ6m54rg=");
     border-radius: 50%;
     background-size: 100%;
