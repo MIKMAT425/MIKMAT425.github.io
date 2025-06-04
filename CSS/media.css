@@ -1,0 +1,43 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+}
+@media (max-width: 767px) {
+  html {
+    font-size: 16px; /* pevná veľkosť pre lepšiu čitateľnosť na mobiloch */
+  }
+}
+
+@media (max-width: 480px) {
+  /* Malé mobily (napr. iPhone SE) */
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  /* Väčšie smartfóny (napr. iPhone 13, Galaxy S) */
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  /* Tablety na výšku (iPad, Android tablety) */
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+  /* Laptopy s menším rozlíšením */
+}
+@media (min-width: 1280px) and (max-width: 1440px) {
+    .navbar div li{
+        margin-right:2.4rem ;
+    }
+  /* Bežné laptopy a menšie monitory */
+}
+@media (min-width: 1440px) and (max-width: 1920px) {
+    .navbar div li{
+        margin-right:2.8rem ;
+    }
+  /* Full HD monitory (1920×1080) a podobné */
+}
+@media (min-width: 1920px) and (max-width: 2120px){
+    .navbar div li{
+        margin-right:3rem ;
+    }
+}
+@media (min-width: 2560px) {
+  /* 4K, 5K, ultra-wide monitory a TV */
+}
